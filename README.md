@@ -6,7 +6,7 @@ Get more widgets at [Übersicht][1]!
 
 ## The Result
 
-![Widget in action!](dockerstats.png)
+![Widget in action!](screenshot.png)
 
 As you can see, it's pretty simple. Just shows the name of the machine, the corresponding IP (if any), and a running/stopped status.
 
