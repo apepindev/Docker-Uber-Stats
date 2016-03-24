@@ -12,7 +12,7 @@ As you can see, it's pretty simple. Just shows the name of the machine, the corr
 
 To enable, place the `dockermachinestats.widget` folder in your `Übersicht/widgets` directory.
 
-###### Todo
+## Todo
 - Container/image count
 - Interactive run/stop/restart
 - VM size
